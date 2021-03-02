@@ -1,0 +1,13 @@
+C:\Users\Isaac Reyes\source\repos\Patron State\PatronState\bin\Debug\netcoreapp3.1\PatronState.exe
+C:\Users\Isaac Reyes\source\repos\Patron State\PatronState\bin\Debug\netcoreapp3.1\PatronState.deps.json
+C:\Users\Isaac Reyes\source\repos\Patron State\PatronState\bin\Debug\netcoreapp3.1\PatronState.runtimeconfig.json
+C:\Users\Isaac Reyes\source\repos\Patron State\PatronState\bin\Debug\netcoreapp3.1\PatronState.runtimeconfig.dev.json
+C:\Users\Isaac Reyes\source\repos\Patron State\PatronState\bin\Debug\netcoreapp3.1\PatronState.dll
+C:\Users\Isaac Reyes\source\repos\Patron State\PatronState\bin\Debug\netcoreapp3.1\PatronState.pdb
+C:\Users\Isaac Reyes\source\repos\Patron State\PatronState\obj\Debug\netcoreapp3.1\PatronState.AssemblyInfoInputs.cache
+C:\Users\Isaac Reyes\source\repos\Patron State\PatronState\obj\Debug\netcoreapp3.1\PatronState.AssemblyInfo.cs
+C:\Users\Isaac Reyes\source\repos\Patron State\PatronState\obj\Debug\netcoreapp3.1\PatronState.csproj.CoreCompileInputs.cache
+C:\Users\Isaac Reyes\source\repos\Patron State\PatronState\obj\Debug\netcoreapp3.1\PatronState.dll
+C:\Users\Isaac Reyes\source\repos\Patron State\PatronState\obj\Debug\netcoreapp3.1\PatronState.pdb
+C:\Users\Isaac Reyes\source\repos\Patron State\PatronState\obj\Debug\netcoreapp3.1\PatronState.genruntimeconfig.cache
+C:\Users\Isaac Reyes\source\repos\Patron State\PatronState\obj\Debug\netcoreapp3.1\PatronState.csprojAssemblyReference.cache
